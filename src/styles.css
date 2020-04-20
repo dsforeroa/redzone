@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: sf-mono;
+    src: url(assets/fonts/SF-Mono-Regular.otf) format("opentype");
+
+}
+@font-face {
+    font-family: sf-mono-bold;
+    src: url(assets/fonts/SF-Mono-Bold.otf) format("opentype");
+
+}
+body{
+    background-color: #EBFFFB;
+}
